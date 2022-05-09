@@ -1,1 +1,2 @@
-hi this text for practice of git commands
+hi this test 
+this is new line
